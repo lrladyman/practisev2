@@ -1,4 +1,3 @@
 django
 gunicorn
 django-heroku
-gunicorn== 19.9.0
